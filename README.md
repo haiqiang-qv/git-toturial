@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Git教程GitHub
-
-- feature-A
+  - fix-B
+>>>>>>> fix-B
